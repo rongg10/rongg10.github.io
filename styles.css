@@ -11,7 +11,7 @@ body {
 
 /* Header Styles */
 header {
-    background-color: #424242;
+    background-color: #2C2C2C;
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -62,7 +62,7 @@ a:hover {
 
 /* Footer Styles */
 footer {
-    background-color: #424242;
+    background-color: #2C2C2C;
     color: #fff;
     padding: 10px 0;
     text-align: center;
