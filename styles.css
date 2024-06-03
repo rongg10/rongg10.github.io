@@ -16,7 +16,6 @@ body {
 
 /* Header Styles */
 header {
-    color: #fff;
     padding: 20px 0;
     text-align: center;
 }
@@ -30,7 +29,6 @@ header h1 {
 .main-content {
     width: 80%;
     margin: 20px auto;
-    background-color: #fff;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
