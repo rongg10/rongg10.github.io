@@ -5,13 +5,13 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #424242; /* Default background color */
+    background-color: #2C2C2C; /* Default background color */
     color: #333;
 }
 
 /* Set the background color for the entire page */
 body {
-    background-color: #424242; /* Your desired background color */
+    background-color: #2C2C2C; /* Your desired background color */
 }
 
 /* Header Styles */
